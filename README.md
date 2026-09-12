@@ -157,3 +157,7 @@ MCP tool の引数例（架空の team / 記事番号）:
 - [公式 MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)
 
 ファイル構成: `src/esa-client.js` が API・キャッシュ、`src/server.js` が tool 定義、`src/index.js` が stdio 起動、`test/` がテスト、`scripts/smoke.js` が実プロセスの接続確認です。
+
+## License
+
+[MIT License](LICENSE) — Copyright (c) 2026 Takumi Otagaki
